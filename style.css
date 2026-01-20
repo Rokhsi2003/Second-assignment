@@ -1,0 +1,151 @@
+/* h2 {
+    color: blue;
+}
+p {
+    color: blue;
+} */
+
+body {
+    background-color: lightgray;
+    /* background-image: url('../img/360_F_702977138_1aokCG5qXpjsYfsI6mRAnB11Zm3WuZAY.jpg'); */
+    /* background-repeat: no-repeat; */
+    /* background-position: right top; */
+    /* background-attachment: fixed; */
+    /* color: #fff; */
+    /* background: url('../img/360_F_702977138_1aokCG5qXpjsYfsI6mRAnB11Zm3WuZAY.jpg')   no-repeat  fixed; */
+    /* background-size: cover; */
+
+    
+  font-family: "Arimo", sans-serif;
+  /* font-optical-sizing: auto; */
+  /* font-weight: <weight>;
+  font-style: normal; */
+  margin: 0;
+  padding: 0;
+
+
+}
+h2 , p {
+    /* color: blue; */
+    /* color: rgb(93, 11, 234); */
+    /* color: #fff; */
+    /* background-color: rgba(0, 0, 0, 1); */
+}
+.note {
+
+    /* color: red; */
+    color: #000;
+    padding: 30px;
+    background-color: wheat;
+    /* background-color: rgb(0, 0, 0);
+    opacity: 0.5; */
+    /* background-color: wheat; */
+    /* width: 50vw;
+    height: 50vh; */
+    /* background-color: aqua; */
+
+
+    border: 2px solid #000;
+    border-radius: 10px;
+    /* border-left:2px solid #000 ; */
+    /* border-bottom: ;
+    border-right: ;
+    border-top: ; */
+    /* border:none */
+
+    /* border-width: 5px; */
+    /* border-width: 5px 2px 7px 10px; */
+    /* border-width: 5px 2px; */
+    /* border-top-width: 5px;
+    border-left-width:10px ;
+    border-bottom-width: 7px ;
+    border-right-width:2px ; */
+    /* border-color: red ; */
+    /* border-color: orange green red blue; */
+    /* border-color: orange green; */
+    /* border-top-color: orange;
+    border-bottom-color: green;
+    border-left-color: red;
+    border-right-color: blue; */
+
+    /* border-style: dotted; */
+    /* border-style: dashed solid double dotted; */
+    /* border-style: dashed solid ; */
+    /* border-top-style: dotted;
+    border-bottom-style: double ;
+    border-left-style: dashed;
+    border-right-style: solid; */
+
+}
+
+#para {
+    color: green;
+    /* width: 50%; */
+}
+
+div p {
+    color: orangered;
+}
+.container>p{
+    color: purple;
+}
+#para:hover {
+    color: brown;
+    background-color: lightslategray;
+}
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+
+.para {
+    /* text-align: right; */
+    text-align: center;
+    text-transform: lowercase;
+    /* text-decoration: overline; */
+    /* text-decoration-color: red; */
+    /* letter-spacing: 3px;
+    word-spacing: 50px; */
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+p{
+    text-align: justify;
+    /* text-indent: 20px;
+    line-height: 40px; */
+}
+
+a {
+    text-decoration: none;
+}
+
+
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    border: 2px solid #000;
+    /* margin: 50px auto; */
+    text-align: center;
+    /* line-height: 200px; */
+    font-size: 24px;
+
+    /* margin-top: 20px ;
+    margin-bottom: 50px ;
+    margin-left: 100px;
+    margin-right: 20px; */
+
+    /* margin: 20px 20px 20px 20px; */
+
+    margin: 20px auto;
+
+
+    /* padding: 30px 50px 10px 40px; */
+    padding: 10px;
+
+}
